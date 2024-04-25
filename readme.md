@@ -10,7 +10,7 @@ ActivemQ-Installation-on-linux-Instance
 
     ```bash
     git clone https://github.com/NashTech-Labs/ActivemQ-Installation-on-linux-Instance.git
-    cd ActivemQ-Installation-on-linuxation
+    cd ActivemQ-Installation-on-linux-Instance
     ```
 
 2. **Make the script executable**:
